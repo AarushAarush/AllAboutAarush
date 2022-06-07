@@ -12,7 +12,7 @@ body {
 
 #welcome {
     position: absolute;
-    border: 0;
+    bottom: 0;
     background: linear-gradient(#a83232 0%, #94a832 100%);
     display: table;
     width: 100%;
@@ -67,4 +67,7 @@ cursor: pointer;
     padding-bottom: 5px;
     padding-left: 10px;
     padding-right: 10px;
+}
+a{
+    text-decoration: none;
 }
